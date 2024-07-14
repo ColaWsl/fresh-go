@@ -1,4 +1,4 @@
-module wangsl.com/hello
+module github.com/ColaWsl/fresh-go
 
 go 1.22.5
 
